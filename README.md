@@ -16,7 +16,7 @@
 - C
 - Python
 - HTML
-- CSS
+- CSS(learning phase)
 - JavaScript (Learning)
 
 ### Tools & Technologies
