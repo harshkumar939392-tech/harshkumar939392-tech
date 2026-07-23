@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkumar939392-tech&show_icons=true&theme=tokyonight)
+https://your-app.vercel.app/api/stats?username=harshkumar939392-tech
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar939392-tech&layout=compact&theme=tokyonight)
 
