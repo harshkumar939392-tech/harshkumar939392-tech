@@ -66,9 +66,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-harsh.vercel.app/api/stats?username=harshkumar939392-tech)
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-stats-harsh.vercel.app/api/streak?username=harshkumar939392-tech)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshkumar939392-tech&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
