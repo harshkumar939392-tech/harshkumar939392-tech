@@ -68,7 +68,8 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshkumar939392-tech&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshkumar939392-tech&theme=merko)](https://git.io/streak-stats)
+
 
 ---
 
