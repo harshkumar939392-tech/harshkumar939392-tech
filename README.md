@@ -66,15 +66,9 @@
 
 ## 📊 GitHub Stats
 
-https://your-app.vercel.app/api/stats?username=harshkumar939392-tech
+![GitHub Stats](https://github-stats-harsh.vercel.app/api/stats?username=harshkumar939392-tech)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar939392-tech&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harshkumar939392-tech&theme=tokyonight)
+![GitHub Streak](https://github-stats-harsh.vercel.app/api/streak?username=harshkumar939392-tech)
 
 ---
 
